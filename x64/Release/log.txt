@@ -1,0 +1,2 @@
+2024-08-22 오전 2:50:54 - Error occurred while executing C:\Users\gwangho\source\repos\BondStockSys\x64\Release\BondStockSys.exe
+2024-08-22 오전 2:51:04 - C:\Users\gwangho\source\repos\BondStockSys\x64\Release\BondStockSys.exe executed successfully in 2.101563 seconds.
